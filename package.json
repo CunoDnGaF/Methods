@@ -1,0 +1,29 @@
+{
+  "name": "classes-inheritance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CunoDnGaF/Classes-inheritance.git"
+  },
+  "author": "CunoDnGaF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CunoDnGaF/Classes-inheritance/issues"
+  },
+  "homepage": "https://github.com/CunoDnGaF/Classes-inheritance#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.22.9",
+    "@babel/core": "^7.22.9",
+    "@babel/preset-env": "^7.22.9",
+    "babel-jest": "^29.6.1",
+    "core-js": "^3.31.1",
+    "eslint": "^8.45.0",
+    "jest": "^29.6.1"
+  }
+}
